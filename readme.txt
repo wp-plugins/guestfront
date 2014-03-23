@@ -24,20 +24,11 @@ Embed the GuestFront booking / reservation engine into any PAGE or POST.
 
 == Description ==
 
-GuestFront is a fully responsive online booking system that you can plugin into any Wordpress 
+GuestFront is a fully responsive online booking system that you can plugin into any Wordpress Page or Post.
 
-Page or Post.
+Guestfront is a fully responsive cloud-based booking system. It's easy to set up and use.
 
-
-Guestfront is a fully responsive cloud-based booking system. It's easy to set up and use. 
-
-GuestFront allows you can take bookings / reservations 24/7. Because the system is online, you 
-
-can access from anywhere with an internet connection - your office, your home or your iPad. The 
-
-GuestFront system works for hotels, bed and breakfasts, guesthouses and self-catering 
-
-accommodation. 
+GuestFront allows you to take bookings / reservations 24/7. Because the system is online, you can access from anywhere with an internet connection - your office, your home or your iPad. The GuestFront system works for hotels, bed and breakfasts, guesthouses and self-catering accommodation. 
 
 
 **GuestFront Booking System Features**
@@ -52,6 +43,7 @@ accommodation.
 * No need to have a payment gateway, credit card processing or PayPal
 * Offer additional services or add ons using custom fields
 * Booking component can be embedded directly on a webpage
+* Booking component can also be integrated onto a Facebook page to enable you to receive bookings directly via this social media channel.
 
 For a complete listing of features see [Complete List of GuestFront Features]
 
@@ -63,8 +55,7 @@ To configure and use the system for your own bookings, you will need to create a
 GuestFront account.
 
 
-Create FREE Account
-Please go to http://guestfront.com/sign-up
+To create your FREE account go to http://guestfront.com/sign-up
 
 If you have any questions or need some help, please feel free to ask.
 
