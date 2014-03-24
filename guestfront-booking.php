@@ -37,7 +37,7 @@ class GuestFrontBooking
  
 
 function admin_menu(){
-    add_menu_page( 'GuestFront Reservation Engine Plugin', 'GuestFront', 'administrator', 'guestfront-dashboard', array($this, 'dashboard'), plugins_url( 'guestfront-booking/images/icon.png') ); 
+    add_menu_page( 'GuestFront Reservation Engine Plugin', 'GuestFront', 'administrator', 'guestfront-dashboard', array($this, 'dashboard'), plugins_url( 'images/icon.png') ); 
 }
 
 function my_custom_menu_page(){
