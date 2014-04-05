@@ -31,7 +31,7 @@ Guestfront is a fully responsive cloud-based booking system. It's easy to set up
 GuestFront allows you to take bookings / reservations 24/7. Because the system is online, you can access from anywhere with an internet connection - your office, your home or your iPad. The GuestFront system works for hotels, bed and breakfasts, guesthouses and self-catering accommodation. 
 
 Fees:
-GuestFront takes a 5% booking deposit at the point of sale (our commission) the remaining balance is payable to you, the accommodation provider, upon your guests arrival or departure. There is also a €2.50 booking fee charged to the guest at the point of booking.
+GuestFront takes a 5% booking deposit at the point of sale (our commission) the remaining balance is payable to you, the accommodation provider, upon your guests arrival or departure. There is also a &euro;2.50 booking fee charged to the guest at the point of booking.
 
 **GuestFront Booking System Features**
 
