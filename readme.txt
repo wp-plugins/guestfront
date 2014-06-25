@@ -15,7 +15,7 @@ Author URI: http://www.guestfront.com/
 Author: GuestFront
 Requires at least: 3.0.1
 Tested up to: 3.7.1
-Stable tag: 1.0
+Stable tag: 1.0.1.0
 Version: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,7 +31,7 @@ Guestfront is a fully responsive cloud-based booking system. It's easy to set up
 GuestFront allows you to take bookings / reservations 24/7. Because the system is online, you can access from anywhere with an internet connection - your office, your home or your iPad. The GuestFront system works for hotels, bed and breakfasts, guesthouses and self-catering accommodation. 
 
 Fees:
-GuestFront takes a 5% booking deposit at the point of sale (our commission) the remaining balance is payable to you, the accommodation provider, upon your guests arrival or departure. There is also a &euro;2.50 booking fee charged to the guest at the point of booking.
+GuestFront takes a 5% booking deposit at the point of sale (our commission) the remaining balance is payable to you, the accommodation provider, upon your guests arrival or departure. There is also a €2.50 booking fee charged to the guest at the point of booking.
 
 **GuestFront Booking System Features**
 
@@ -103,7 +103,7 @@ possible? =
 Yes, you can configure a minimum/maximum time in advance that a reservation will be accepted.
 
 = I would like to take deposits , is this possible ? =
-GuestFront takes a 5% booking deposit at the point of sale (our commission) the remaining balance is payable to you, the accommodation provider, upon your guests arrival or departure. There is also a €2.50 booking fee charged to the guest at the point of booking.
+GuestFront takes a 5% booking deposit direct from your customer at the point of sale (our commission) the remaining balance is payable to you, the accommodation provider, upon your guests arrival or departure. There is a €2.50 credit card processing fee charged to the guest at the point of booking.
 
 = Do I need to process the credit card information when deposits are made? =
 

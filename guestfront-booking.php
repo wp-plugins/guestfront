@@ -3,7 +3,7 @@
 Plugin Name: GuestFront
 Plugin URI: http://www.guestfront.com
 Description: This plugin lets you embed the GuestFront Booking / Reservation engine into any PAGE or POST for hotels, B&Bs, GuestHouses or Self-Catering hire. Remember to create a free GuestFront account to use it. To use it, activate the plugin, then click "Settings" or click the GuestFront tab on the left menu. Inside settings there are instructions on how to add a shortcode that allows you to embed the GuestFront Booking Reservation Process
-Version: 1.0.0
+Version: 1.0.1.0
 Author: GuestFront
 Author URI: http://www.guestfront.com
 License: GPL2
@@ -139,7 +139,7 @@ function my_custom_menu_page(){
 
         if(isset($_REQUEST['data']['arriving_on']) && isset($_REQUEST['data']['nights']))
         {
-            $url = "http://live.guestfront.com/$id/bookings/fwd?arriving_on=".$_REQUEST['data']['arriving_on']."&nights=".$_REQUEST['data']['nights'];
+            $url = "https://live.guestfront.com/$id/bookings/fwd?arriving_on=".$_REQUEST['data']['arriving_on']."&nights=".$_REQUEST['data']['nights'];
         }
 
         if (empty($id)) {
