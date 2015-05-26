@@ -24,7 +24,7 @@ Embed the GuestFront booking / reservation engine into any PAGE or POST.
 
 == Description ==
 
-GuestFront is a fully responsive online booking system that you can plugin into any Wordpress Page or Post.
+GuestFront is a fully responsive online booking system that you can plug into any Wordpress Page or Post.
 
 Guestfront is a fully responsive cloud-based booking system. It's easy to set up and use.
 
